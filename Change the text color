@@ -1,0 +1,1 @@
+javascript:void(pJ83EnR7=prompt('Color...',''));if(pJ83EnR7!=''){if(frames.length>0){for(xN3At2nF=0;xN3At2nF<frames.length;xN3At2nF++){void(frames[xN3At2nF].document.fgColor=pJ83EnR7)}}else{void(document.fgColor=pJ83EnR7)}}else{void(null)}
